@@ -70,6 +70,6 @@ facebook에서 제공하는 [React Developer Tools](https://chrome.google.com/we
 
 ---------------------
 
-## 해당 Velog 링크
+## 해당 [Velog 링크](https://velog.io/@gil0127/Sprint-Twittler-React)
 
 ## Sprint를 마치고 느낀 점
